@@ -3,7 +3,7 @@ I'm currently working on:<br>Enhancing prompt engineering techniques and experim
 
 
 ## 🌐 Socials:
-[![LinkedIn]Subhakant Pradhan [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/2PlleSYjq) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SubhakantP21290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhakant705@gmail.com) 
+[![LinkedIn](https://www.linkedin.com/in/subhakant-pradhan-486310377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)][![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/2PlleSYjq) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SubhakantP21290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhakant705@gmail.com) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sidhu3009-2004&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sidhu3009-2004&theme=dark&hide_border=false)<br/>
